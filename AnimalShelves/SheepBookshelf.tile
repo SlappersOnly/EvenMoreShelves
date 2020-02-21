@@ -6,9 +6,10 @@
     "wallPushOut": true,
     "stepSoundGroup": "staxel.sounds.WoodFootSteps",
     "categories": [
+        "animal",
+        "shelves",
         "container",
         "storage",
-        "basic",
         "furniture",
         "cabinet",
         "closet",
@@ -16,7 +17,7 @@
         "pantry",
         "credenza",
         "double",
-        "orange"
+        "blue"
     ],
     "compound": {
         "size": {

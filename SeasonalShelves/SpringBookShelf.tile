@@ -6,6 +6,8 @@
     "wallPushOut": true,
     "stepSoundGroup": "staxel.sounds.WoodFootSteps",
     "categories": [
+        "seasonal",
+        "shelves",
         "container",
         "storage",
         "basic",

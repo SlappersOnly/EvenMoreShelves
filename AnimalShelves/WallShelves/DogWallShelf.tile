@@ -11,17 +11,19 @@
   "placementDirections" : [ "zp" ],
   "attachmentDirections" : [ "yn", "yp", "xn", "xp" ],
   "categories": [
-	"simply",
-	"appliance",
-	"interactive",
-    "basic",
-    "kitchen",
-    "fridge",
-    "freezer",
-    "refrigerator",
+    "animal",
+    "shelves",
+    "container",
+    "storage",
     "furniture",
-    "white"
-  ],
+    "cabinet",
+    "closet",
+    "cupboard",
+    "pantry",
+    "credenza",
+    "double",
+    "brown"
+],
   "code": "MarkGrant.EvenMoreShelves.DogWallShelf",
   "compound": {
     "size": {
