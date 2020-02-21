@@ -1,0 +1,37 @@
+{
+    "dockDefinition": "staxel.docks.Bookshelf",
+    "prefetchTileState": true,
+    "__inherits": "staxel/docks/dockBase.config",
+    "code": "MarkGrant.EvenMoreShelves.SummerBookShelf",
+    "wallPushOut": true,
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "container",
+        "storage",
+        "basic",
+        "furniture",
+        "cabinet",
+        "closet",
+        "cupboard",
+        "pantry",
+        "credenza",
+        "double",
+        "yellow"
+    ],
+    "compound": {
+        "size": {
+            "x": 1,
+            "y": 3,
+            "z": 2
+        },
+        "specification": "CCCCXC"
+    },
+    "voxels": "mods/EvenMoreShelves/SeasonalShelves/SummerBookShelf.qb",
+    "pricing": {
+        "buyable": true,
+        "catalogueUnlockedFromStart": true,
+        "sellPrice": 5,
+        "value": 280
+    },
+    "searchable": true
+}

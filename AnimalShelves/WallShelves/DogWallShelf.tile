@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "prefetchTileState": true,
+  "customRendererVoxels": "mods/EvenMoreShelves/AnimalShelves/WallShelves/DogFaceShelf.qb",
+  "animation": "MarkGrant.EvenMoreShelves.boneAnimation.WallShelf",
+  "interactActionTrigger": "staxel.entityAction.OpenOvenAction",
+  "dockDefinition": "MarkGrant.EvenMoreShelves.dock.WallShelf",
+  "wallPushOut" : false,
+  "attachToBelow" : false,
+  "attachToSide": true,
+  "placementDirections" : [ "zp" ],
+  "attachmentDirections" : [ "yn", "yp", "xn", "xp" ],
+  "categories": [
+	"simply",
+	"appliance",
+	"interactive",
+    "basic",
+    "kitchen",
+    "fridge",
+    "freezer",
+    "refrigerator",
+    "furniture",
+    "white"
+  ],
+  "code": "MarkGrant.EvenMoreShelves.DogWallShelf",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 2,
+      "z": 2
+    }
+  },
+  "interactVerb": "controlHint.verb.Open",
+  "pricing": {
+    "buyable": false,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/EvenMoreShelves/AnimalShelves/WallShelves/DogFaceShelf.qb"
+}

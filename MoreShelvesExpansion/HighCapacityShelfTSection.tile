@@ -1,0 +1,38 @@
+{
+    "dockDefinition": "mods.EvenMoreShelves.HighCapacity",
+    "prefetchTileState": true,
+    "__inherits": "staxel/docks/dockBase.config",
+    "code": "mods.MoreShelves.HighCapacityShelfTSection",
+    "wallPushOut": true,
+    "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "categories": [
+        "mods",
+        "MoreShelves",
+        "container",
+        "storage",
+        "basic",
+        "furniture",
+        "cabinet",
+        "closet",
+        "cupboard",
+        "pantry",
+        "credenza",
+        "double",
+        "gray",
+        "white",
+        "shelf",
+        "steel",
+        "rack"
+    ],
+    "voxels": "mods/EvenMoreShelves/MoreShelvesExpansion/HighCapacityShelfTSection.qb",
+    "compound": {"size": {
+        "x": 1,
+        "y": 3,
+        "z": 1
+    }},
+    "pricing": {
+        "sellPrice": 650,
+        "value": 1200
+    },
+    "searchable": true
+}
